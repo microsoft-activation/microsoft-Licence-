@@ -52,7 +52,7 @@
   </table>
   <table>
     <tr>
-      <td><img src="https://github.com/microsoft-activation/microsoft-Licence-/blob/main/img/Console%20information.png" width="400"> <br> <strong>Console Info</strong></td>
+      <td><img src="https://github.com/microsoft-activation/microsoft-Licence-/blob/main/img/Console.png" width="400"> <br> <strong>Console Info</strong></td>
       <td><img src="https://github.com/microsoft-activation/microsoft-Licence-/blob/main/img/Dashboard.png" width="400"> <br> <strong>Main Dashboard</strong></td>
     </tr>
   </table>
