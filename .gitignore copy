@@ -1,0 +1,16 @@
+build/
+dist/
+img/
+*.exe
+*.spec
+*.ico
+__pycache__/
+*.pyc
+*.pyo
+alt_method.ps1
+win7_later.ps1
+win8_10_11.ps1
+.vscode/
+.idea/
+*.swp
+*.log
