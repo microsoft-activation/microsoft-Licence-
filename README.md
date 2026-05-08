@@ -34,37 +34,37 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="img/Screenshot 2026-05-07 082830.png" width="400"> <br> <strong>Select Setup Install Mode</strong></td>
-      <td><img src="img/Screenshot 2026-05-07 080503.png" width="400"> <br> <strong>Launch Software</strong></td>
+      <td><img src="https://github.com/microsoft-activation/microsoft-Licence-/blob/main/img/select%20install%20mode.png" width="400"> <br> <strong>Select Setup Install Mode</strong></td>
+      <td><img src="https://github.com/microsoft-activation/microsoft-Licence-/blob/main/img/Lounch%20Tool.png" width="400"> <br> <strong>Launch Software</strong></td>
     </tr>
   </table>
   <table>
     <tr>
-      <td><img src="img/Screenshot 2026-05-07 080443.png"> <br> <strong>Ready to Install</strong></td>
-      <td><img src="img/Screenshot 2026-05-07 080426.png" width="400"> <br> <strong>Select Additional Tasks</strong></td>
+      <td><img src="https://github.com/microsoft-activation/microsoft-Licence-/blob/main/img/Ready%20to%20install.png"> <br> <strong>Ready to Install</strong></td>
+      <td><img src="https://github.com/microsoft-activation/microsoft-Licence-/blob/main/img/Select%20additional%20Taske.png" width="400"> <br> <strong>Select Additional Tasks</strong></td>
     </tr>
   </table>
   <table>
     <tr>
-      <td><img src="img/Screenshot 2026-05-07 080404.png" width="400"> <br> <strong>License Agreement</strong></td>
-      <td><img src="img/Screenshot 2026-05-06 162402.png" width="400"> <br> <strong>Ready To User</strong></td>
+      <td><img src="https://github.com/microsoft-activation/microsoft-Licence-/blob/main/img/Licence%20aggrement.png" width="400"> <br> <strong>License Agreement</strong></td>
+      <td><img src="https://github.com/microsoft-activation/microsoft-Licence-/blob/main/img/ready%20to%20use.png" width="400"> <br> <strong>Ready To User</strong></td>
     </tr>
   </table>
   <table>
     <tr>
-      <td><img src="img/Screenshot 2026-05-06 162204.png" width="400"> <br> <strong>Console Info</strong></td>
-      <td><img src="img/Screenshot 2026-05-06 162120.png" width="400"> <br> <strong>Main Dashboard</strong></td>
+      <td><img src="https://github.com/microsoft-activation/microsoft-Licence-/blob/main/img/Console%20information.png" width="400"> <br> <strong>Console Info</strong></td>
+      <td><img src="https://github.com/microsoft-activation/microsoft-Licence-/blob/main/img/Dashboard.png" width="400"> <br> <strong>Main Dashboard</strong></td>
     </tr>
   </table>
   <table>
     <tr>
-      <td><img src="img/Screenshot 2026-05-06 162048.png" width="400"> <br> <strong>More Action</strong></td>
-      <td><img src="img/Screenshot 2026-05-06 162032.png" width="400"> <br> <strong>Show All Activity</strong></td>
+      <td><img src="https://github.com/microsoft-activation/microsoft-Licence-/blob/main/img/more%20option.png" width="400"> <br> <strong>More Action</strong></td>
+      <td><img src="https://github.com/microsoft-activation/microsoft-Licence-/blob/main/img/Select%20additional%20Taske.png" width="400"> <br> <strong>Show All Activity</strong></td>
     </tr>
   </table>
   <table>
     <tr>
-      <td><img src="img/Screenshot 2026-05-07 080600.png" width="400"> <br> <strong>More Halp</strong></td>
+      <td><img src="https://github.com/microsoft-activation/microsoft-Licence-/blob/main/img/Open%20Halp.png" width="400"> <br> <strong>More Halp</strong></td>
       <td><img src="https://learn-attachment.microsoft.com/api/attachments/9faaf2e3-1d3c-446a-a0a4-c622042b2a0e?platform=QnA" width="400"> <br> <strong>Product Key Problam Error Code: 0xC004F074</strong></td>
     </tr>
   </table>
